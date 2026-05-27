@@ -3,14 +3,17 @@
 > A simplified REST API inspired by **AutoRABIT's** DevOps release automation platform.
 > Tracks software releases from creation through deployment using a structured stage pipeline.
 
----
 
-## 💡 Project Story (For Interviews)
+[//]: # (## 💡 Project Story &#40;For Interviews&#41;)
 
-> *"I built this project after researching AutoRABIT's product. AutoRABIT automates Salesforce
-> release pipelines — so I built a simplified version of that core concept: create a release,
-> assign tasks, advance through stages with business rule validation, and generate a summary report.
-> It gave me a hands-on understanding of the domain I'd be working in."*
+[//]: # ()
+[//]: # (> *"I built this project after researching AutoRABIT's product. AutoRABIT automates Salesforce)
+
+[//]: # (> release pipelines — so I built a simplified version of that core concept: create a release,)
+
+[//]: # (> assign tasks, advance through stages with business rule validation, and generate a summary report.)
+
+[//]: # (> It gave me a hands-on understanding of the domain I'd be working in."*)
 
 ---
 
